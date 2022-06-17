@@ -1,0 +1,61 @@
+.header {
+  position: absolute;
+  width: 100%;
+  height: 70px;
+  left: 0px;
+  top: 0px;
+  background: #263f61;
+}
+
+.instaplay {
+  position: absolute;
+  width: 179px;
+  height: 44px;
+  left: 56px;
+  top: 12px;
+
+  font-family: "Big John PRO";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 43px;
+}
+
+/* identical to box height */
+.polygon1 {
+  position: absolute;
+  width: 26.6px;
+  height: 26px;
+  left: 188px;
+  top: 20.19px;
+}
+
+.rec19 {
+  position: absolute;
+  width: 48px;
+  height: 44px;
+  left: 1240px;
+  top: 12px;
+}
+
+.vector {
+  position: absolute;
+  left: 91.75%;
+  right: 3.54%;
+  top: 28%;
+  bottom: 29.55%;
+}
+
+.frame49 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 424px;
+  height: 44px;
+  left: 865px;
+  top: 12px;
+
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.26);
+  border-radius: 5px;
+}

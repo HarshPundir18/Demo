@@ -1,0 +1,17 @@
+.trend {
+  position: absolute;
+  width: 246px;
+  height: 34px;
+  left: 30px;
+  top: 330px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 42px;
+  display: flex;
+  align-items: flex-end;
+
+  color: #ffffff;
+}
